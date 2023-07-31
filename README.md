@@ -25,7 +25,7 @@ Documentations : https://github.com/Giangvnu1/CentralZoo_Group06/tree/main/Docum
 
 ====================================================
 
-Published website : https://giangvnu1.github.io/CentralZoo_Group06/
+Published website : https://giangvnu1.github.io/ChickenCondor_Group03/
 
 ====================================================
 
