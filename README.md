@@ -14,14 +14,14 @@
 
 + List Of Menber:
 
-          1. Phạm Giang       (Student1420697)
-          2. Phan Gia Minh    (Student1420693)
-          3. Phan Gia Minh    (Student1420693)
-          4. Phan Gia Minh    (Student1420693)
+          1. Phạm Giang                  (Student1420697)
+          2. Nguyễn Thành Trung          (Student1416054)
+          3. Nguyễn Nam Khánh            (Student1420718)
+          4. Phan Gia Minh               (Student1420693)
           
 ====================================================
 
-Documentations : https://github.com/Giangvnu1/CentralZoo_Group06/tree/main/Document
+Documentations : https://github.com/Giangvnu1/ChickenCondor_Group03/tree/main/documentations
 
 ====================================================
 
